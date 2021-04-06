@@ -1,0 +1,40 @@
+body {
+    background-color: #fff675;
+  }
+  img {
+    width: 400px;
+    height: 300px;
+      margin-left:30%;
+    border-radius:10px;
+  }
+  
+  p, h1, h2 {
+   font-family: 'DotGothic16', sans-serif;
+  }
+  nav{
+    background-color:#1c1b1b;
+    padding:0; 
+    margin:0;
+    height:70px;
+    color:white;
+    display:flex;
+    align-items:center;  
+  }
+  nav h1{
+   margin-left:8px; 
+  }
+  ul { 
+    list-style:none; 
+    display:flex;
+    font-family: 'DotGothic16', sans-serif
+  }
+  li {
+    margin-right:38px
+  }
+  html {
+    scroll-behavior:smooth;
+  }
+  a {
+    text-decoration:none;
+    color:rgb(255, 255, 249);
+  }
